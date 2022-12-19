@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: rebeccapurple;
+}
+
+#box {
+  width: 255px;
+  min-height: 255px;
+  background-color: rebeccapurple;
+  /* margin: 0 auto; */
+}
